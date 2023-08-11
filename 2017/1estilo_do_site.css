@@ -1,0 +1,644 @@
+
+/*Logo e menu */
+body{
+	background-image: url(Background4.jpg);
+}
+a:visited{
+	color: #cfc6bd;
+}
+a:link{
+	color: #cfc6bd;
+}
+.fundo{
+	background-image: url(Background.jpg);
+}
+.logo{
+	width: 160px;
+	height:113px;
+	margin-left: 45%;
+	margin-top: 15px;
+}
+.perfil{
+	width: 80px;
+	height: 65px;
+	margin-left: 13%;
+}
+.fotoP{
+	float: left;
+	margin-right:15px;
+}
+.Login{
+float: right;
+margin-top: 30px;
+margin-right: 30px;
+color: #cfc6bd;
+}
+.Login2{
+	float: right;
+	margin-top: 30px;
+
+}
+.loginB{
+	width: 100px;
+	height: 10px;
+	background-image: url(Background3.jpg);
+
+}
+.Register{
+	margin-left: 75%
+}
+.Register2{
+	color: #cfc6bd;
+	width: 285px;
+}
+.Cadastre{
+ 	margin-left: 12px;
+}
+.Cadastre:hover{
+ 	color:#1173a4;
+}
+.menu{
+	margin-left: 40%;
+}
+.item{
+	text-decoration: none;
+}
+.item:hover{
+	text-decoration: none;
+	color: black;
+}
+.barra{
+	margin-left: 25%;
+	background-image: url(Background3.jpg);
+	margin-top: 10px;
+}
+.botão{
+    background-color: #377097;
+    border-color: #22445b;
+    color: #cfc6bd;
+}
+.botão:hover{
+ 	background-image: url(Background.jpg);
+    border-color: #22445b;
+    color: #cfc6bd;
+}
+.division{
+	clear: both;
+}
+#proj{
+	margin-left: 40%;
+
+}
+.JogosPag{
+	text-decoration: none;
+}
+
+
+/*Divisão entre jogos e menu*/
+
+.div{
+	height: 10px;
+}
+
+/*Jogos org*/
+
+
+.jogos{
+	margin-left: 3%;
+
+}
+
+.jogo{
+	text-align: center;
+	width: 23%;
+	float: left;
+
+}
+
+/*Jogos*/
+
+.gta{
+	width: 241px;
+	height: 175px;
+}
+
+.csgo{
+	width: 241px;
+	height: 175px;
+}
+.dota{
+	width: 241px;
+	height: 175px;
+}
+.AC{
+	width: 241px;
+	height: 175px;
+}
+
+
+
+
+
+
+.div2{
+	height: 230px;
+}
+
+
+
+
+
+.farcry{
+	width: 241px;
+	height: 175px;
+}
+
+.paladins{
+	width: 241px;
+	height: 175px;
+}
+.ResEvil{
+	width: 241px;
+	height: 175px;
+}
+.payday{
+	width: 241px;
+	height: 175px;
+}
+
+
+/* Parceiros */
+
+.div3{
+	height: 3px;
+	background-color: #171a21;
+}
+
+.parceiros{
+	color:#cfc6bd;
+}
+.parceiro{
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-left: 5%;
+}
+
+.parceiroPage{
+	margin-top: 20px;
+}
+.parceiroIMG{
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.parceiroDescri{
+	color:#cfc6bd;
+	margin-top: 30px;
+}
+
+
+
+
+
+
+/* RODAPÉÉÉÉÉÉÉÉÉÉ */
+.rodape{
+	text-align: center;
+	background-color:#171a21;
+	color:#cfc6bd;
+}
+.div4{
+	height: 130px;
+}
+.RedeSocial{
+	width: 50px;
+}
+#EasterEgg{
+	text-decoration: none;
+}
+
+/* Sobre */
+
+.Sobre{
+	color: #cfc6bd;
+}
+.TitleSobre{
+	margin-bottom: 40px;
+	margin-left: 10%;
+
+}
+.InfoSobre{
+	width: 70%;
+	margin-left: 10%
+}
+.DiaDia{
+	color: #cfc6bd;
+	margin-top: 30px;
+	background-image: url(Background.jpg);
+}
+.Mfotos{
+	margin-left: 7%;
+}
+.FotoSobre{
+	width: 280px;
+	height: 205px;
+	margin-right: 20px;
+}
+.TitleDia{
+	margin-left: 10%;
+}
+.Instagram{
+	margin-left: 10%;
+	margin-bottom: 30px;
+}
+
+/* História */
+
+
+.history{
+	color: #cfc6bd;
+	margin-left: 50px;
+}
+.coluna1{
+	width: 40%;
+	height: 638px;
+	float: left;	
+	border-right: 5px solid black;
+}
+.coluna2{
+	width: 40%;
+	height: 638px;
+	float: left;
+	
+}
+.fato{
+	width: 80%
+	height: 200px;
+	background-image: url(Background.jpg);
+	border: 3px solid #202859;
+}
+.div4{
+	margin-top: 10px;
+}
+.titleH{
+	margin-bottom: 10px;
+}
+
+/* contato início*/
+
+.Contato{
+	background-image: url(Background.jpg);
+}
+.Tcontato{
+	color: #cfc6bd;
+}
+.Mapa{
+	color: #cfc6bd;
+	margin-left: 80px;
+}
+.mapa{
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin-right: 30px;
+}
+.endereco{
+	color: #ccc;
+	margin-top: 5px;
+}
+.midias{
+	color: #cfc6bd;
+	margin-top: 36px;
+}
+.Tmidia{
+	margin-bottom: 10px;
+}
+.Tduvidas{
+	margin-bottom: 5px;
+	margin-top: 35px;
+}
+.duvitens{
+	color: #ccc;
+}
+.contact{
+	margin-top: 30px;
+}
+.contact2:hover{
+	color:#1173a4;
+}
+.contatoRight{
+	width: 55%;
+}
+
+
+
+/* parte do envio de mensagens */
+
+#contat{
+	margin-bottom: 100px;
+	margin-left: 10px;
+	font-size: 40px;
+}
+.nomeC{
+	color: #cfc6bd;
+	margin-left: 50px;
+}
+.bartext{
+	width: 600px;
+}
+.bartext2{
+	width: 600px;
+	height: 100px;
+}
+.barraDmsg{
+	margin-bottom: 30px;
+}
+.checkbox{
+	float: left;
+}
+#check{
+	margin-top: 20px;
+}
+
+
+
+/* Tela de Cadastro*/
+
+
+.CadastTitle{
+	color: #cfc6bd;
+	font-size: 40px;
+	margin-top: 50px;
+	margin-left: 10px;
+}
+.itemcadastro{
+	 color: #cfc6bd;
+	 margin-left: 200px;
+	 margin-top: 50px;
+}
+.barcadastro{
+	width: 300px;
+}
+.SecCad{
+	float: left;
+	width: 40%;
+}
+#SexoGeral{
+	margin-left: 40%;
+	margin-top: 100px;
+	width: 200px;
+}
+#masc{
+	color:#cfc6bd;
+}
+#fem{
+	color:#cfc6bd;
+}
+.Robo{
+	margin-left: 40%;
+	margin-top: 100px;
+	width: 280px;
+}
+#robo{
+	color:#cfc6bd;
+	font-size: 20px;
+}
+#SexoTitle{
+	color:#cfc6bd;
+	font-size: 30px;
+}
+#textPerfil{
+	width: 80%;
+	margin-top: 30px;
+	color: #cfc6bd;
+	font-size: 20px;
+}
+#fotoPerfil{
+	margin-top: 20px;
+	float: left;
+}
+
+#Esc{
+	background-color: #377097;
+    border-color: #22445b;
+    color: #cfc6bd;
+}
+#EscArquivo{
+	float: left;
+	margin-top: 270px;
+	width:60%;
+}
+#done{
+	margin-left: 320px;
+	margin-bottom: 30px;
+}
+#upload{
+	background-color: #377097;
+    border-color: #22445b;
+    color: #cfc6bd;
+}
+#Dnascimento{
+	margin-left: 40%;
+	margin-top: 100px;
+	width: 500px;
+}
+#TitleData{
+	color:#cfc6bd;
+	font-size: 30px;
+}
+#CorFav{
+	margin-left: 40%;
+	margin-top: 100px;
+	width: 300px;
+}
+#TitleCor{
+	color:#cfc6bd;
+	font-size: 30px;
+}
+#Data{
+	background-color: #377097;
+    border-color: #22445b;
+    color: #cfc6bd;
+}
+#cor{
+	background-color: #377097;
+    border-color: #22445b;
+    color: #cfc6bd;
+}
+#SaveProfile{
+	margin-left: 80%;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+#Save{
+	background-color: #377097;
+    border-color: #22445b;
+    color: #cfc6bd;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+}
+
+
+/*Galeria*/
+
+#Galery{
+	color: #cfc6bd;
+	font-size: 40px;
+}
+
+#G1{
+	width: 90%;
+	margin-top: 100px;
+}
+#G2{
+	width: 40%;
+	margin-top: 40px;
+	float: left;
+	margin-right: 10px;
+	margin-left: 50px;
+}
+#G3{
+	width: 40%;
+	margin-top: 40px;
+	float: left;
+}
+#G4{
+	width:30%;
+	margin-top: 40px;
+	float: left;
+	margin-right: 3px;
+}
+#G5{
+	width: 30%;
+	margin-top: 40px;
+	float: left;
+	margin-right: 3px;
+}
+#G6{
+	width: 30%;
+	margin-top: 40px;
+	float: left;
+}
+#G7{
+	width: 90%;
+	margin-top: 40px;
+}
+#G8{
+	width: 40%;
+	margin-top: 40px;
+	float: left;
+	margin-right: 10px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+}
+#G9{
+	width: 40%;
+	margin-top: 40px;
+	float: left;
+	margin-bottom: 50px;
+}
+
+
+/*Detalhes de Projeto*/
+
+
+.DescricaoProj{
+	width: 60%;
+	margin-left: 50px;
+	margin-top: 20px;
+	border: 2px solid #171a21;
+	float: left;
+	background-image: url(Background.jpg);
+}
+.TitleDetalhe{
+	color: #cfc6bd;
+	font-size: 40px;
+	margin-bottom: 10px;
+}
+
+.DescDeta{
+	color: #cfc6bd;
+}
+
+.BotaoDetalhes{
+	margin-top: 10px;
+	margin-left: 65px;
+	background-color: #377097;
+    border-color: #22445b;
+    color: #cfc6bd;
+    width: 675px;
+    height: 30px;
+}
+.BotaoDetalhes:hover{
+	color: #cfc6bd;
+	background-image: url(Background.jpg);
+}
+
+.ParceiroDetalhe{
+	width: 25%;
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.TitleParceiroDetalhe{
+	color: #cfc6bd;
+	font-size: 35px;
+	margin-bottom: 20px;
+}
+.DetalheParceiro{
+	width: 240px;
+	height: 200px;
+}
+
+/*Imagens do Detalhes de Projeto*/
+
+.imagens{
+	margin-left: 30px;
+	margin-top: 30px;
+
+}
+.imagensTitle{
+	color: #cfc6bd;
+	font-size: 40px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.ImagemProj{
+	width: 400px;
+	height: 200px;
+	margin-left: 5px;
+	float: left;
+}
+
+/*Colaboradores*/
+
+.Colaboradores{
+	margin-top: 30px;
+}
+.Colaboradorestitle{
+	color: #cfc6bd;
+	font-size: 35px;
+}
+.ColabGeral{
+	margin-left: 100px;
+	margin-top: 30px;
+}
+.Colaborador{
+	background-image: url(Background.jpg);
+	width: 230px;
+	height: 45px;
+	float: left;
+	margin-right: 50px;
+	text-align: center;
+	border: 2px solid #171a21;
+}
+.Colaboradornome{
+	color: #cfc6bd;
+	font-size: 23px;
+}
+.Colaboradorcargo{
+	color: gray;
+	font-size: 15px;
+}
